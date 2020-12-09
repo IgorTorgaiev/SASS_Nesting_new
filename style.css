@@ -1,0 +1,41 @@
+/* 
+font-family: "Gill Sans", sans-serif;
+font-size: 30px;
+font-weight: lighter
+*/
+#one {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 30px;
+  font-weight: bold; }
+
+/*
+
+*/
+#two {
+  text-align: right;
+  text-overflow: hidden;
+  text-shadow: 1px 1px #e41616;
+  text-overflow: hidden; }
+
+div {
+  border-top: outset;
+  border-right: dashed;
+  border-bottom: solid;
+  border-left: groove; }
+
+div {
+  background-color: maroon; }
+
+div {
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px; }
+
+div {
+  color: orange; }
+
+div {
+  font-size: 30px; }
+
+/*# sourceMappingURL=style.css.map */
